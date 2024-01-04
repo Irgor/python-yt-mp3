@@ -1,4 +1,4 @@
-from pytube3 import YouTube
+from pytube import YouTube
 from flask import Flask, request, render_template, send_file
 import os
 import shutil
