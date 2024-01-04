@@ -17,4 +17,4 @@ for url in urls:
         
         print(yt.title + " downloaded successfully.")
         
-print('all songs downloaded!');
+print('all songs downloaded!')
